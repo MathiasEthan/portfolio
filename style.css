@@ -1,0 +1,21 @@
+h1{
+    color:white
+}
+.header{
+    background-color: black;
+display: flex;
+flex-direction: column;
+justify-content:space-between;
+}
+.menus{
+    background-color: #654321;
+}
+.footer{
+    background-color: black;
+}
+.grid{
+    background-color: #456764;
+    display:flex;
+    flex-wrap:wrap;
+    glyph-orientation-horizontal: inherit;
+}
